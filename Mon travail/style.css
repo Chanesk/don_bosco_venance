@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+    header{
+    background-color: white;
+    padding: 9px;
+    }
+    .logo{
+        color: white;
+        font-size: 18px;
+        float: left;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+        margin-left: 12px;
+        float: right;
+    }
+    
+    .section-banniere{
+        padding: 100px 0;
+        padding-left: 40px;
+        background-color: #283891;
+        color: white;
+        text-align: center;
+     
+    }
+    .section-apropos{
+        background-position: center;
+        padding: 100px;
+        padding-left: 45px;
+      
+    }
+
+    .section-apropos p {
+        margin: 25px 0;
+    }
+
+    .titre-selection{
+    color: #283891;
+    
+    }
+    ul{
+
+        margin-left: 10px;
+         }
+   
+    .nos-extensions{
+        background-position: center;
+        padding: 100px;
+        padding-left: 45px;
+    }
+    .section-vous{
+        color: #283891;
+        margin: 25px;
+    }
+    .image{
+        background-image: url("./images/collegedonbosco.png");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+    }
+    
+    .images{
+        background-image: url("./images/illustration.png");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+     }
+     
